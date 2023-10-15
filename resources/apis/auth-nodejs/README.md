@@ -1,1 +1,1 @@
-Resources for different authentication methods in nodejs
+# Resources for different authentication & authorization methods in nodejs
