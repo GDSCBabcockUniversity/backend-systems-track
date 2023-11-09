@@ -27,6 +27,8 @@ https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
 
 [HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/)
 
+[Simple Intro to HTTP](https://handmade.network/education/http
+
 ## TLS
 
 https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
